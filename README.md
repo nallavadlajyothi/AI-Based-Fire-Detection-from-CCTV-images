@@ -1,1 +1,1 @@
-# AI-Based-Fire-Detection-from-CCTV-images
+# AI-BaDetection-from-CCTV-images
